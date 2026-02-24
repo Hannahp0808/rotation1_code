@@ -1,0 +1,50 @@
+Subsite,Mpro_Resi,NSP_Count,NSPs,Conflict_Warning
+S6,168,8,nsp 4-5; nsp 7-8; nsp 8-9; nsp 9-10; nsp 10-11; nsp 12-13; nsp 13-14; nsp 15-16,"Also in ['S4', 'S5']"
+S6,191,4,nsp 4-5; nsp 7-8; nsp 9-10; nsp 12-13,Also in ['S5']
+S5,168,5,nsp 5-6; nsp 8-9; nsp 9-10; nsp 12-13; nsp 13-14,"Also in ['S4', 'S6']"
+S5,189,7,nsp 4-5; nsp 7-8; nsp 8-9; nsp 9-10; nsp 12-13; nsp 13-14; nsp 15-16,"Also in ['S2', 'S4', 'S3']"
+S5,190,7,nsp 4-5; nsp 7-8; nsp 8-9; nsp 9-10; nsp 12-13; nsp 13-14; nsp 15-16,Also in ['S4']
+S5,191,3,nsp 7-8; nsp 13-14; nsp 15-16,Also in ['S6']
+S4,165,8,nsp 4-5; nsp 7-8; nsp 8-9; nsp 9-10; nsp 10-11; nsp 12-13; nsp 13-14; nsp 15-16,"Also in ['S2', 'S3', 'S1']"
+S4,166,9,nsp 4-5; nsp 5-6; nsp 7-8; nsp 8-9; nsp 9-10; nsp 10-11; nsp 12-13; nsp 13-14; nsp 15-16,"Also in ['S3', 'S1']"
+S4,167,3,nsp 8-9; nsp 9-10; nsp 12-13,
+S4,188,5,nsp 5-6; nsp 7-8; nsp 8-9; nsp 9-10; nsp 12-13,Also in ['S2']
+S4,189,9,nsp 4-5; nsp 5-6; nsp 7-8; nsp 8-9; nsp 9-10; nsp 10-11; nsp 12-13; nsp 13-14; nsp 15-16,"Also in ['S2', 'S3', 'S5']"
+S4,190,9,nsp 4-5; nsp 5-6; nsp 7-8; nsp 8-9; nsp 9-10; nsp 10-11; nsp 12-13; nsp 13-14; nsp 15-16,Also in ['S5']
+S4,192,6,nsp 5-6; nsp 8-9; nsp 9-10; nsp 10-11; nsp 12-13; nsp 15-16,
+S3,142,4,nsp 7-8; nsp 8-9; nsp 12-13; nsp 15-16,"Also in ['S4_prime', 'S2_prime', 'S1_prime', 'S2', 'S1', 'S3_prime']"
+S3,165,9,nsp 4-5; nsp 5-6; nsp 7-8; nsp 8-9; nsp 9-10; nsp 10-11; nsp 12-13; nsp 13-14; nsp 15-16,"Also in ['S2', 'S4', 'S1']"
+S3,166,9,nsp 4-5; nsp 5-6; nsp 7-8; nsp 8-9; nsp 9-10; nsp 10-11; nsp 12-13; nsp 13-14; nsp 15-16,"Also in ['S4', 'S1']"
+S3,189,9,nsp 4-5; nsp 5-6; nsp 7-8; nsp 8-9; nsp 9-10; nsp 10-11; nsp 12-13; nsp 13-14; nsp 15-16,"Also in ['S2', 'S4', 'S5']"
+S2,41,8,nsp 5-6; nsp 7-8; nsp 8-9; nsp 9-10; nsp 10-11; nsp 12-13; nsp 13-14; nsp 15-16,"Also in ['S1_prime', 'S1']"
+S2,49,6,nsp 4-5; nsp 5-6; nsp 8-9; nsp 9-10; nsp 10-11; nsp 15-16,Also in ['S1_prime']
+S2,165,3,nsp 4-5; nsp 10-11; nsp 15-16,"Also in ['S4', 'S3', 'S1']"
+S2,187,6,nsp 4-5; nsp 5-6; nsp 7-8; nsp 10-11; nsp 13-14; nsp 15-16,
+S2,188,3,nsp 4-5; nsp 5-6; nsp 10-11,Also in ['S4']
+S2,189,9,nsp 4-5; nsp 5-6; nsp 7-8; nsp 8-9; nsp 9-10; nsp 10-11; nsp 12-13; nsp 13-14; nsp 15-16,"Also in ['S4', 'S5', 'S3']"
+S1,140,9,nsp 4-5; nsp 5-6; nsp 7-8; nsp 8-9; nsp 9-10; nsp 10-11; nsp 12-13; nsp 13-14; nsp 15-16,
+S1,141,7,nsp 4-5; nsp 5-6; nsp 7-8; nsp 10-11; nsp 12-13; nsp 13-14; nsp 15-16,
+S1,142,4,nsp 5-6; nsp 7-8; nsp 9-10; nsp 13-14,"Also in ['S4_prime', 'S2_prime', 'S3', 'S1_prime', 'S2', 'S3_prime']"
+S1,143,9,nsp 4-5; nsp 5-6; nsp 7-8; nsp 8-9; nsp 9-10; nsp 10-11; nsp 12-13; nsp 13-14; nsp 15-16,"Also in ['S1_prime', 'S2_prime', 'S3_prime']"
+S1,144,9,nsp 4-5; nsp 5-6; nsp 7-8; nsp 8-9; nsp 9-10; nsp 10-11; nsp 12-13; nsp 13-14; nsp 15-16,
+S1,145,9,nsp 4-5; nsp 5-6; nsp 7-8; nsp 8-9; nsp 9-10; nsp 10-11; nsp 12-13; nsp 13-14; nsp 15-16,Also in ['S1_prime']
+S1,163,9,nsp 4-5; nsp 5-6; nsp 7-8; nsp 8-9; nsp 9-10; nsp 10-11; nsp 12-13; nsp 13-14; nsp 15-16,
+S1,164,9,nsp 4-5; nsp 5-6; nsp 7-8; nsp 8-9; nsp 9-10; nsp 10-11; nsp 12-13; nsp 13-14; nsp 15-16,Also in ['S2']
+S1,165,5,nsp 7-8; nsp 8-9; nsp 9-10; nsp 10-11; nsp 13-14,"Also in ['S2', 'S4', 'S3']"
+S1,166,9,nsp 4-5; nsp 5-6; nsp 7-8; nsp 8-9; nsp 9-10; nsp 10-11; nsp 12-13; nsp 13-14; nsp 15-16,"Also in ['S4', 'S3']"
+S1,172,6,nsp 4-5; nsp 5-6; nsp 8-9; nsp 10-11; nsp 13-14; nsp 15-16,
+S1,1,0,,
+S1_prime,25,9,nsp 4-5; nsp 5-6; nsp 7-8; nsp 8-9; nsp 9-10; nsp 10-11; nsp 12-13; nsp 13-14; nsp 15-16,"Also in ['S2_prime', 'S3_prime']"
+S1_prime,26,9,nsp 4-5; nsp 5-6; nsp 7-8; nsp 8-9; nsp 9-10; nsp 10-11; nsp 12-13; nsp 13-14; nsp 15-16,"Also in ['S4_prime', 'S2_prime', 'S3_prime']"
+S1_prime,27,3,nsp 7-8; nsp 12-13; nsp 13-14,
+S1_prime,41,8,nsp 4-5; nsp 5-6; nsp 7-8; nsp 8-9; nsp 9-10; nsp 10-11; nsp 12-13; nsp 15-16,"Also in ['S2', 'S1']"
+S1_prime,49,3,nsp 4-5; nsp 8-9; nsp 10-11,Also in ['S2']
+S1_prime,142,7,nsp 4-5; nsp 5-6; nsp 8-9; nsp 9-10; nsp 10-11; nsp 13-14; nsp 15-16,"Also in ['S4_prime', 'S2_prime', 'S3', 'S2', 'S1', 'S3_prime']"
+S1_prime,143,9,nsp 4-5; nsp 5-6; nsp 7-8; nsp 8-9; nsp 9-10; nsp 10-11; nsp 12-13; nsp 13-14; nsp 15-16,"Also in ['S1', 'S2_prime', 'S3_prime']"
+S1_prime,145,4,nsp 5-6; nsp 7-8; nsp 9-10; nsp 12-13,Also in ['S1']
+S2_prime,24,6,nsp 4-5; nsp 7-8; nsp 8-9; nsp 10-11; nsp 12-13; nsp 15-16,"Also in ['S4_prime', 'S3_prime']"
+S2_prime,25,8,nsp 4-5; nsp 5-6; nsp 7-8; nsp 8-9; nsp 9-10; nsp 10-11; nsp 12-13; nsp 15-16,"Also in ['S1_prime', 'S3_prime']"
+S2_prime,26,9,nsp 4-5; nsp 5-6; nsp 7-8; nsp 8-9; nsp 9-10; nsp 10-11; nsp 12-13; nsp 13-14; nsp 15-16,"Also in ['S4_prime', 'S1_prime', 'S3_prime']"
+S2_prime,143,9,nsp 4-5; nsp 5-6; nsp 7-8; nsp 8-9; nsp 9-10; nsp 10-11; nsp 12-13; nsp 13-14; nsp 15-16,"Also in ['S1_prime', 'S1', 'S3_prime']"
+S3_prime,24,6,nsp 4-5; nsp 5-6; nsp 8-9; nsp 9-10; nsp 10-11; nsp 15-16,"Also in ['S4_prime', 'S2_prime']"
+S4_prime,24,5,nsp 4-5; nsp 5-6; nsp 8-9; nsp 9-10; nsp 10-11,"Also in ['S2_prime', 'S3_prime']"
