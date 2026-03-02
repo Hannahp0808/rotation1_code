@@ -1,0 +1,12 @@
+pdb_id,pdb_path,chain1,chain2,lig_code,lig_smiles,lig_resi
+7TA4_D_Asn213.pdb,/Users/hannah/code/rotation1/rotation1_code/7TA4_single_resi/7TA4_D_Asn213.pdb,B,D,,,
+7TA4_D_Arg208.pdb,/Users/hannah/code/rotation1/rotation1_code/7TA4_single_resi/7TA4_D_Arg208.pdb,B,D,,,
+7TA4_D_Gln210.pdb,/Users/hannah/code/rotation1/rotation1_code/7TA4_single_resi/7TA4_D_Gln210.pdb,B,D,,,
+7TA4_D_Val207.pdb,/Users/hannah/code/rotation1/rotation1_code/7TA4_single_resi/7TA4_D_Val207.pdb,B,D,,,
+7TA4.pdb,/Users/hannah/code/rotation1/rotation1_code/7TA4_single_resi/7TA4.pdb,B,D,,,
+7TA4_D_Leu209.pdb,/Users/hannah/code/rotation1/rotation1_code/7TA4_single_resi/7TA4_D_Leu209.pdb,B,D,,,
+7TA4_D_Gly212.pdb,/Users/hannah/code/rotation1/rotation1_code/7TA4_single_resi/7TA4_D_Gly212.pdb,B,D,,,
+7TA4_D_Thr206.pdb,/Users/hannah/code/rotation1/rotation1_code/7TA4_single_resi/7TA4_D_Thr206.pdb,B,D,,,
+7TA4_D_Ala214.pdb,/Users/hannah/code/rotation1/rotation1_code/7TA4_single_resi/7TA4_D_Ala214.pdb,B,D,,,
+7TA4_D_Ala211.pdb,/Users/hannah/code/rotation1/rotation1_code/7TA4_single_resi/7TA4_D_Ala211.pdb,B,D,,,
+7TA4_D_Ala205.pdb,/Users/hannah/code/rotation1/rotation1_code/7TA4_single_resi/7TA4_D_Ala205.pdb,B,D,,,
