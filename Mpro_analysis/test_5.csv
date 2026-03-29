@@ -1,0 +1,6 @@
+pdb_id,pdb_path,chain1,chain2,lig_code,lig_smiles,lig_resi,quaternary_assembly
+SARS-b0110a.pdb,/Users/hannah/Documents/Study/DPhil/Y1/Rotation 1/CoV-Mpro/SARS_Mpro/SARS-b0110a.pdb,A,A,LIG,O=C(Cc1cncc2ccccc12)N1CCCCCC1,410,A1 - dimer
+SARS-b0110b.pdb,/Users/hannah/Documents/Study/DPhil/Y1/Rotation 1/CoV-Mpro/SARS_Mpro/SARS-b0110b.pdb,B,B,LIG,O=C(Cc1cncc2ccccc12)N1CCCCCC1,602,A1 - dimer
+SARS-b0111a.pdb,/Users/hannah/Documents/Study/DPhil/Y1/Rotation 1/CoV-Mpro/SARS_Mpro/SARS-b0111a.pdb,A,A,LIG,C[C@H]1CCCN(C(=O)Cc2cncc3ccccc23)CC1,410,A1 - dimer
+SARS-b0111b.pdb,/Users/hannah/Documents/Study/DPhil/Y1/Rotation 1/CoV-Mpro/SARS_Mpro/SARS-b0111b.pdb,B,B,LIG,C[C@H]1CCCN(C(=O)Cc2cncc3ccccc23)CC1,602,A1 - dimer
+SARS-b0112a.pdb,/Users/hannah/Documents/Study/DPhil/Y1/Rotation 1/CoV-Mpro/SARS_Mpro/SARS-b0112a.pdb,A,A,LIG,CC1CCN(C(=O)Cc2cncc3ccccc23)CC1,410,A1 - dimer
